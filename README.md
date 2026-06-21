@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Mira Sun
+## 👋 你好 我是孙美全
 
 欢迎来到我的 GitHub Profile！这里是我学习、创意和成长的地方。
 
@@ -11,25 +11,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![mira-sun0333's GitHub stats](https://github-readme-stats.vercel.app/api?username=mira-sun0333&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Skills & Tools
-
-- 💻 Programming
-- 📚 Learning & Development
-- 🎯 Problem Solving
-
----
-
-## 📫 Connect with Me
-
-- 📧 GitHub: [@mira-sun0333](https://github.com/mira-sun0333)
-- 🌐 Portfolio: [mira-sun0333](https://github.com/mira-sun0333)
-
----
-
-**Thanks for visiting my profile!** ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.
