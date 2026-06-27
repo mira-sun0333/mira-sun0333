@@ -13,7 +13,6 @@
 # 📌 仓库介绍
 
 [ign_robot_dog](https://github.com/mira-sun0333/mira-sun0333/ign_robot_ign)该仓库使用ignition Gazebo仿真平台+champ算法开发了一个适配于宇树go2和智元d1的四足机器人仿真平台
-
 [Reinforcement_learning](https://github.com/mira-sun0333/Reinforcement_learning)该仓库实现强化学习中利用到的贝尔曼公式,马尔可夫决策等等,仓库中有具体的代码实现
 
 ## 📫 联系我
